@@ -1,3 +1,5 @@
+# TASK
+
 Create:
 
 1) a function that prints a square of the number
