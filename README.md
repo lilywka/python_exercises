@@ -1,2 +1,2 @@
 # python_exercises
-homework and experiments
+In this repository you can find my homework and experiments.
