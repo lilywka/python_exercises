@@ -1,4 +1,4 @@
 # TASK
 
-Remove ol pair brackets
+Remove all paires of brackets
 Example: “(())(“ => “(“
