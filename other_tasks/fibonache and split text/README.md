@@ -1,4 +1,4 @@
-#TASK
+# TASK
 
 my_string = “test_11.1_dddd_1111_aaaa_test_1555_test_1844”
 • разбить строку на список по разделителю «_»
