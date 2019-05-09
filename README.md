@@ -1,2 +1,2 @@
 # python_exercises
-homework and experiments
+homework and experiments and mistackes
