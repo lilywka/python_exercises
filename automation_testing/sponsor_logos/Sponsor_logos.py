@@ -7,7 +7,6 @@ driver.get('https://dou.ua/')
 
 logos_xpath = "//div[@class = 'items table']//div/a/img"
 logos = driver.find_elements_by_xpath(logos_xpath)
-driver.execute_script('window.scrollTo(0,500)')
 
 directory = 'output'
 if not os.path.exists(directory):
