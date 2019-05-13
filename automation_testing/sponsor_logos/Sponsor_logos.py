@@ -14,7 +14,7 @@ if not os.path.exists(directory):
 
 for i in logos:
     url = i.get_attribute('src')
-    png = '{0}/{1}.png'.format(directory, i.get_attribute('alt'))
+    png = '{0}/{1}_logo.png'.format(directory, i.get_attribute('alt'))
     urllib.request.urlretrieve(url, png)
 
 driver.close()
